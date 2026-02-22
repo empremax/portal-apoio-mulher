@@ -1,6 +1,6 @@
 /**
  * Portal de Apoio e Proteção à Mulher
- * Design: "Acolhimento Orgânico" — tons terrosos quentes, formas suaves, tipografia acolhedora
+ * Design: "Acolhimento Orgânico" - tons terrosos quentes, formas suaves, tipografia acolhedora
  * Fonts: Playfair Display (display) + Nunito (body)
  * Colors: Terracotta, Cream, Olive, Warm Brown
  */
@@ -31,19 +31,19 @@ import {
 } from "@/lib/resources";
 
 const HERO_IMG =
-  "https://private-us-east-1.manuscdn.com/sessionFile/csq9lgEWshhuGiB9pSPiNg/sandbox/6CqHKOfIJBIjDhxttvJ1Dd-img-1_1771780683000_na1fn_aGVyby1iYW5uZXI.jpg?x-oss-process=image/resize,w_1920,h_1920/format,webp/quality,q_80&Expires=1798761600&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvY3NxOWxnRVdzaGh1R2lCOXBTUGlOZy9zYW5kYm94LzZDcUhLT2ZJSkJJakRoeHR0dkoxRGQtaW1nLTFfMTc3MTc4MDY4MzAwMF9uYTFmbl9hR1Z5YnkxaVlXNXVaWEkuanBnP3gtb3NzLXByb2Nlc3M9aW1hZ2UvcmVzaXplLHdfMTkyMCxoXzE5MjAvZm9ybWF0LHdlYnAvcXVhbGl0eSxxXzgwIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk4NzYxNjAwfX19XX0_&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=T4Yk-dRzo0gp5j3JmPb4q6oc5Bj-0QSmSV8u9mp3EKTwBWuy75wmFNojQXU-57BFNliY7tgDgkRJ2WRbGF1ORtINyA2yJkuHBXf0HDlNq9-NhFPo0BtMUbeS6-LIYfLpDBHv8vQlzyQAfxwViDPpUKeZx63RAAiYqma8-Rr-fzWXI50vHgEMav9kB-ouiJqRU5Uj7YjyDfgct60HQUn9ZEnWG0jUCZu07luPit2TRSjDDKwuFi2QwUEYgxFD2mIbAavaJgH12Bgz9bLIYSUrNwkgrxz1lm1EGF6zmTpTac5ie6ftdrUSy-uFag54jdrLupwDHuaE5JPjHo7qMojZTg__";
+  "https://files.manuscdn.com/user_upload_by_module/session_file/310419663030213103/qmcEWXilyYSyxQjb.jpg";
 
 const DENUNCIA_IMG =
-  "https://private-us-east-1.manuscdn.com/sessionFile/csq9lgEWshhuGiB9pSPiNg/sandbox/6CqHKOfIJBIjDhxttvJ1Dd-img-2_1771780678000_na1fn_c2VjdGlvbi1kZW51bmNpYQ.jpg?x-oss-process=image/resize,w_1920,h_1920/format,webp/quality,q_80&Expires=1798761600&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvY3NxOWxnRVdzaGh1R2lCOXBTUGlOZy9zYW5kYm94LzZDcUhLT2ZJSkJJakRoeHR0dkoxRGQtaW1nLTJfMTc3MTc4MDY3ODAwMF9uYTFmbl9jMlZqZEdsdmJpMWtaVzUxYm1OcFlRLmpwZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSx3XzE5MjAsaF8xOTIwL2Zvcm1hdCx3ZWJwL3F1YWxpdHkscV84MCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5ODc2MTYwMH19fV19&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=dVih1Ezxrt8WDqNiDnJ7ONQ0-IsP2kT1kz8HYWt3vGOMU25lVCp2eLPpM~2HeRACtpIwCacZIUFHibkUtogIldSXYPYv8WO7OwBVBnaMmS8W8LZH8Q8zUR4qAHGMv4S2Rs400xKXGvjbkKikFBer9gI0B8hNW04scc7lI9Zr8W-AZ9zLsuu5qiVSYIXvxRUaTuEIJhG6XX2jPTgJIqTARGr2~ptS7t05a9KUAaTrXH4IBWD~1YtOvldefNzLtqE6DP9ZARTum3j7HWP2K2mGFh3zlFDcNvg4vfMRnMazHDr7suH5HOKAbF9Cm0TjVbzf5Kmx7j4hXSfc2hwJ1i7bjA__";
+  "https://files.manuscdn.com/user_upload_by_module/session_file/310419663030213103/AHtXAAixHbnmbQSe.jpg";
 
 const CAPACITACAO_IMG =
-  "https://private-us-east-1.manuscdn.com/sessionFile/csq9lgEWshhuGiB9pSPiNg/sandbox/6CqHKOfIJBIjDhxttvJ1Dd-img-3_1771780678000_na1fn_c2VjdGlvbi1jYXBhY2l0YWNhbw.jpg?x-oss-process=image/resize,w_1920,h_1920/format,webp/quality,q_80&Expires=1798761600&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvY3NxOWxnRVdzaGh1R2lCOXBTUGlOZy9zYW5kYm94LzZDcUhLT2ZJSkJJakRoeHR0dkoxRGQtaW1nLTNfMTc3MTc4MDY3ODAwMF9uYTFmbl9jMlZqZEdsdmJpMWpZWEJoWTJsMFlXTmhidy5qcGc~eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsd18xOTIwLGhfMTkyMC9mb3JtYXQsd2VicC9xdWFsaXR5LHFfODAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTg3NjE2MDB9fX1dfQ__&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=NRoJaUACgo6KCLZNzcSV-0Qfy1~8i~KKQgCCvyt-WJPoHmCIKXlOhABA~67s7vT2k-xC6WQxfLMH68Lm2N-3pXGFmiHGJ8MPGfuy1efUDo0KtOw8DCsQoYbhhEQfADx5zVqiivaLXeCWwsHFuHa2XzJsNOKkqkhZALWY6SFGBqUXmmnHzRUhBA9Tf5Fqp9qual~phxg9I2gP7NY8LRQeIVXCFNB3w4ibef9qYbBxp6odQA4svxxv0xBijb-hmLtzJs0gK7ClPMdxENaeR6WsQJSF0dl2~JMitNcMst~KAnjMcEjZhsmsMQXEz2VZm6I2GlTV1uOI-yVA7hPW~i1j7Q__";
+  "https://files.manuscdn.com/user_upload_by_module/session_file/310419663030213103/npAblsOzUlzcwdTC.jpg";
 
 const SAUDE_IMG =
-  "https://private-us-east-1.manuscdn.com/sessionFile/csq9lgEWshhuGiB9pSPiNg/sandbox/6CqHKOfIJBIjDhxttvJ1Dd-img-4_1771780674000_na1fn_c2VjdGlvbi1zYXVkZQ.jpg?x-oss-process=image/resize,w_1920,h_1920/format,webp/quality,q_80&Expires=1798761600&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvY3NxOWxnRVdzaGh1R2lCOXBTUGlOZy9zYW5kYm94LzZDcUhLT2ZJSkJJakRoeHR0dkoxRGQtaW1nLTRfMTc3MTc4MDY3NDAwMF9uYTFmbl9jMlZqZEdsdmJpMXpZWFZrWlEuanBnP3gtb3NzLXByb2Nlc3M9aW1hZ2UvcmVzaXplLHdfMTkyMCxoXzE5MjAvZm9ybWF0LHdlYnAvcXVhbGl0eSxxXzgwIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk4NzYxNjAwfX19XX0_&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=Wjz6mydxarLZRdNQ5RUdjZZxZ4B9-ck~aG5XxZLqSJ6tamAEe7v8v2NBEK~t7~XvQaRSXuRvyLXPMg5G02kQ1Nq7Wd3BxqFNWgl1o4sgINHrW3jghEXe3iz1NK2tj4970vrjFTK26TxXU-55nWKp5L8dImVIiyhEKo76PD8NkQs0fGiuIqFEu1WO96ulyFa4hhyPBRQ0I9567DZ3CjH86RH7f~RcqEtnJXtkX9cNS-XgVxWBjGWqw89~IUsAoAk8mgo9SaBQMIPpZdKV~i3i55SzeNaUbCUcWnitgra3j87hcD~O~h8Uj7XC67bhDPp83R~xqSXQMHZU1IpeA5aoEA__";
+  "https://files.manuscdn.com/user_upload_by_module/session_file/310419663030213103/aAbwUveUtrZJgqCH.jpg";
 
 const DIREITOS_IMG =
-  "https://private-us-east-1.manuscdn.com/sessionFile/csq9lgEWshhuGiB9pSPiNg/sandbox/6CqHKOfIJBIjDhxttvJ1Dd-img-5_1771780667000_na1fn_c2VjdGlvbi1kaXJlaXRvcw.jpg?x-oss-process=image/resize,w_1920,h_1920/format,webp/quality,q_80&Expires=1798761600&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvY3NxOWxnRVdzaGh1R2lCOXBTUGlOZy9zYW5kYm94LzZDcUhLT2ZJSkJJakRoeHR0dkoxRGQtaW1nLTVfMTc3MTc4MDY2NzAwMF9uYTFmbl9jMlZqZEdsdmJpMWthWEpsYVhSdmN3LmpwZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSx3XzE5MjAsaF8xOTIwL2Zvcm1hdCx3ZWJwL3F1YWxpdHkscV84MCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5ODc2MTYwMH19fV19&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=SotnvCtcD67wLtjWYE2yn5PYjF0spT35o6zF9Oh8X2D373k4tgpEV6k0BcEEgtlQcsLb66Jz1BxOKQezfkrF7ypktYcHwi97euI8AAdmyHQaI07-u-qTuJxXXZ52a8tQNQ36hrXv3ECB7gr1DD5cwl-2d1pkS7YJ3KmOLVPLthEbjLE0QYcl3fRbMcv1Qa8m0IiuajtWJZ6SY79ll2hY2ctZ0fKr9A7uYSwydtNYRGohB14pVQFJqw1zzRIm4KV3Rm8FShflWmXLPYERzzhzF6Dr88uEyjL29hGM23NJhAu~MbVcaux9KWWBGYlDXJSYkJQM8UW73jT7i79xzYmUFQ__";
+  "https://files.manuscdn.com/user_upload_by_module/session_file/310419663030213103/WbEdVpYAiIrSkjEy.jpg";
 
 const sectionImages: Partial<Record<ResourceCategory, string>> = {
   denuncia: DENUNCIA_IMG,
@@ -112,7 +112,7 @@ export default function Home() {
             <div className="flex items-center gap-2 mb-6">
               <Sparkles className="w-5 h-5 text-cream" />
               <span className="text-cream/80 text-sm font-semibold tracking-wider uppercase">
-                Projeto Extensionista — ODS 5 e 10
+                Igualdade e Proteção para Todas
               </span>
             </div>
 
@@ -453,7 +453,7 @@ export default function Home() {
                   "Anote nomes de usuário, números de telefone e perfis envolvidos",
                   "Registre datas e horários de cada ocorrência",
                   "Guarde áudios, vídeos e fotos em local seguro (nuvem ou pen drive)",
-                  "Não apague as conversas originais — elas são provas",
+                  "Não apague as conversas originais - elas são provas",
                   "Leve todo o material reunido à delegacia ou ao advogado",
                 ].map((tip, i) => (
                   <div
@@ -496,11 +496,11 @@ export default function Home() {
               .
             </p>
             <div className="flex flex-wrap justify-center gap-4 text-xs text-cream/60">
-              <span>Projeto Extensionista</span>
+              <span>Igualdade de Gênero</span>
               <span>·</span>
-              <span>ODS 5 — Igualdade de Gênero</span>
+              <span>Redução das Desigualdades</span>
               <span>·</span>
-              <span>ODS 10 — Redução das Desigualdades</span>
+              <span>Empoderamento Feminino</span>
             </div>
             <p className="text-xs text-cream/40 mt-4">
               As informações deste portal são de caráter orientativo. Procure

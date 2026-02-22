@@ -70,7 +70,7 @@ export const resources: Resource[] = [
   // === DENÚNCIA E SEGURANÇA ===
   {
     id: 1,
-    title: "Ligue 180 — Central de Atendimento à Mulher",
+    title: "Ligue 180 - Central de Atendimento à Mulher",
     description:
       "Canal gratuito do Governo Federal para denúncias de violência contra a mulher. Funciona 24 horas, todos os dias, inclusive feriados. Atende em português, espanhol e inglês.",
     url: "https://www.gov.br/mulheres/pt-br/central-de-conteudos/ligue-180",
@@ -87,7 +87,7 @@ export const resources: Resource[] = [
   },
   {
     id: 2,
-    title: "Disque 100 — Direitos Humanos",
+    title: "Disque 100 - Direitos Humanos",
     description:
       "Canal para denúncias de violações de direitos humanos, incluindo violência contra mulheres, crianças, idosos e pessoas com deficiência. Funciona 24h.",
     url: "https://www.gov.br/mdh/pt-br/acesso-a-informacao/disque-100",
@@ -104,7 +104,7 @@ export const resources: Resource[] = [
   },
   {
     id: 3,
-    title: "Delegacia Eletrônica — Boletim de Ocorrência Online",
+    title: "Delegacia Eletrônica - Boletim de Ocorrência Online",
     description:
       "Registre um boletim de ocorrência sem sair de casa. Disponível para crimes como ameaça, perseguição, injúria, calúnia e outros delitos.",
     url: "https://delegaciaeletronica.policiacivil.sp.gov.br",
@@ -120,7 +120,7 @@ export const resources: Resource[] = [
   },
   {
     id: 4,
-    title: "App Penhas — Apoio contra Violência Doméstica",
+    title: "App Penhas - Apoio contra Violência Doméstica",
     description:
       "Aplicativo gratuito que oferece apoio a mulheres em situação de violência doméstica, com chat seguro, rede de acolhimento e informações sobre seus direitos.",
     url: "https://www.penhas.com.br/",
@@ -152,7 +152,7 @@ export const resources: Resource[] = [
   },
   {
     id: 6,
-    title: "Justiceiras — Força-tarefa Pró-Mulher",
+    title: "Justiceiras - Força-tarefa Pró-Mulher",
     description:
       "Projeto que oferece apoio jurídico, psicológico e socioassistencial online e gratuito para mulheres em situação de violência.",
     url: "https://www.justiceiras.org.br/",
@@ -182,7 +182,7 @@ export const resources: Resource[] = [
   },
   {
     id: 8,
-    title: "PROCON — Proteção ao Consumidor",
+    title: "PROCON - Proteção ao Consumidor",
     description:
       "Reclamações sobre golpes, cobranças indevidas, produtos com defeito e serviços não prestados. Proteja-se contra fraudes financeiras.",
     url: "https://www.procon.sp.gov.br",
@@ -199,7 +199,7 @@ export const resources: Resource[] = [
   // === CAPACITAÇÃO E EDUCAÇÃO ===
   {
     id: 9,
-    title: "Mulheres Mil — Ministério da Educação",
+    title: "Mulheres Mil - Ministério da Educação",
     description:
       "Programa do governo federal para elevar a escolaridade e promover a inclusão socioprodutiva de mulheres em situação de vulnerabilidade socioeconômica.",
     url: "https://www.gov.br/mec/pt-br/assuntos/ept/mulheres-mil",
@@ -229,7 +229,7 @@ export const resources: Resource[] = [
   },
   {
     id: 11,
-    title: "Associação Mulheres pela Paz — Cursos Gratuitos",
+    title: "Associação Mulheres pela Paz - Cursos Gratuitos",
     description:
       "Cursos gratuitos de capacitação para mulheres de todo o Brasil, incluindo empreendedorismo, educação financeira e marketing digital.",
     url: "https://mulherespaz.org.br/cursos/",
@@ -244,7 +244,7 @@ export const resources: Resource[] = [
   },
   {
     id: 12,
-    title: "Curso: Violência de Gênero — Escola Virtual Gov",
+    title: "Curso: Violência de Gênero - Escola Virtual Gov",
     description:
       "Curso aberto, gratuito e com certificado sobre prevenção à violência de gênero contra mulheres e meninas. Ideal para quem quer entender e combater a violência.",
     url: "https://www.escolavirtual.gov.br/curso/1204",
@@ -261,7 +261,7 @@ export const resources: Resource[] = [
   // === SAÚDE E BEM-ESTAR ===
   {
     id: 13,
-    title: "Saúde da Mulher — Ministério da Saúde",
+    title: "Saúde da Mulher - Ministério da Saúde",
     description:
       "Portal com informações completas sobre saúde da mulher: exames preventivos, pré-natal, planejamento familiar, saúde mental e direitos reprodutivos.",
     url: "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-mulher",
@@ -276,7 +276,7 @@ export const resources: Resource[] = [
   },
   {
     id: 14,
-    title: "CVV — Centro de Valorização da Vida (Ligue 188)",
+    title: "CVV - Centro de Valorização da Vida (Ligue 188)",
     description:
       "Apoio emocional e prevenção do suicídio. Atendimento 24 horas por telefone, chat ou e-mail. Totalmente gratuito e sigiloso.",
     url: "https://www.cvv.org.br/",
@@ -293,7 +293,7 @@ export const resources: Resource[] = [
   },
   {
     id: 15,
-    title: "Instituto Natura — Direitos e Saúde das Mulheres",
+    title: "Instituto Natura - Direitos e Saúde das Mulheres",
     description:
       "Iniciativas voltadas ao bem-estar feminino, com foco em saúde, educação e empoderamento de mulheres em comunidades vulneráveis.",
     url: "https://www.institutonatura.org/pt-br/direitos-e-saude-das-mulheres/",
@@ -313,7 +313,7 @@ export const resources: Resource[] = [
   },
   {
     id: 17,
-    title: "Secretaria da Mulher — Câmara dos Deputados",
+    title: "Secretaria da Mulher - Câmara dos Deputados",
     description:
       "Informações sobre legislação, como buscar ajuda em caso de violência e a rede de atendimento à mulher no Brasil.",
     url: "https://www2.camara.leg.br/a-camara/estruturaadm/secretarias/secretaria-da-mulher",
@@ -322,7 +322,7 @@ export const resources: Resource[] = [
   },
   {
     id: 18,
-    title: "ODS 5 — Igualdade de Gênero (IPEA)",
+    title: "ODS 5 - Igualdade de Gênero (IPEA)",
     description:
       "Página do IPEA sobre o Objetivo de Desenvolvimento Sustentável 5: alcançar a igualdade de gênero e empoderar todas as mulheres e meninas.",
     url: "https://www.ipea.gov.br/ods/ods5.html",
@@ -331,7 +331,7 @@ export const resources: Resource[] = [
   },
   {
     id: 19,
-    title: "Lei Maria da Penha — Texto Completo",
+    title: "Lei Maria da Penha - Texto Completo",
     description:
       "Acesse o texto completo da Lei 11.340/2006 (Lei Maria da Penha), que cria mecanismos para coibir a violência doméstica e familiar contra a mulher.",
     url: "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm",
@@ -342,7 +342,7 @@ export const resources: Resource[] = [
   // === SEGURANÇA DIGITAL ===
   {
     id: 20,
-    title: "StopNCII — Remoção de Imagens Íntimas",
+    title: "StopNCII - Remoção de Imagens Íntimas",
     description:
       "Ferramenta global para impedir o compartilhamento de imagens íntimas sem consentimento. Cria um código digital da imagem para bloquear em plataformas.",
     url: "https://stopncii.org",
@@ -357,7 +357,7 @@ export const resources: Resource[] = [
   },
   {
     id: 21,
-    title: "SaferNet Brasil — Denúncia de Crimes na Internet",
+    title: "SaferNet Brasil - Denúncia de Crimes na Internet",
     description:
       "Denuncie de forma anônima crimes como racismo, misoginia, pornografia infantil, exposição íntima e outros delitos cibernéticos.",
     url: "https://new.safernet.org.br/denuncie",
@@ -417,7 +417,7 @@ export const resources: Resource[] = [
   },
   {
     id: 25,
-    title: "Não Me Perturbe — Bloqueio de Telemarketing",
+    title: "Não Me Perturbe - Bloqueio de Telemarketing",
     description:
       "Cadastre seu número para bloquear ligações indesejadas de telemarketing de operadoras de telefonia.",
     url: "https://www.naomeperturbe.com.br",

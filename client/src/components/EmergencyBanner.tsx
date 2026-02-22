@@ -29,7 +29,7 @@ export default function EmergencyBanner() {
               <Phone className="w-4 h-4" />
               <span>{r.phone}</span>
               <span className="text-red-500 font-normal text-xs hidden sm:inline">
-                — {r.title.split("—")[0].trim()}
+                - {r.title.split("-")[0].trim()}
               </span>
             </a>
           ))}
