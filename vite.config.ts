@@ -1,3 +1,4 @@
+import { defineConfig, type Plugin, type ViteDevServer } from "vite";
 export default defineConfig({
   base: "/portal-apoio-mulher/",
   plugins,
