@@ -1,0 +1,14 @@
+{
+  "name": "Portal de Apoio à Mulher",
+  "description": "Portal com recursos, informações e canais de denúncia para mulheres em situação de vulnerabilidade",
+  "author": "Matheus Ferreira",
+  "institution": "UFBRA - Ciências da Computação",
+  "version": "1.0.0",
+  "buildCommand": "pnpm build",
+  "startCommand": "pnpm start",
+  "devCommand": "pnpm dev",
+  "outputDir": "dist/public",
+  "port": 3000,
+  "resources": 30,
+  "categories": 6
+}
